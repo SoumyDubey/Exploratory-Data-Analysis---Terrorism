@@ -18,4 +18,6 @@ What all security issues and insights you can derive by EDA?
 
 Task completed during Data Science & Analytics Internship @ The Sparks Foundation
 
+Github: https://github.com/SoumyDubey/Exploratory-Data-Analysis---Terrorism
+
 By- Soumy Dubey
